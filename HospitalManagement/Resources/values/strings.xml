@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Hospital Management</string>
+    
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_message">Welcome to Hospital Management</string>
+    <string name="login_error">Login failed. Please try again.</string>
+    <string name="invalid_credentials">Invalid email or password</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="patients">Patients</string>
+    <string name="appointments">Appointments</string>
+    <string name="doctors">Doctors</string>
+    <string name="medical_records">Medical Records</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <!-- Patients -->
+    <string name="add_patient">Add Patient</string>
+    <string name="edit_patient">Edit Patient</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="patient_age">Age</string>
+    <string name="patient_gender">Gender</string>
+    <string name="patient_contact">Contact Number</string>
+    <string name="patient_address">Address</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Appointments -->
+    <string name="new_appointment">New Appointment</string>
+    <string name="appointment_date">Date</string>
+    <string name="appointment_time">Time</string>
+    <string name="select_doctor">Select Doctor</string>
+    <string name="select_patient">Select Patient</string>
+    <string name="appointment_reason">Reason for Visit</string>
+    <string name="upcoming_appointments">Upcoming Appointments</string>
+    <string name="past_appointments">Past Appointments</string>
+    
+    <!-- Doctors -->
+    <string name="add_doctor">Add Doctor</string>
+    <string name="edit_doctor">Edit Doctor</string>
+    <string name="doctor_name">Doctor Name</string>
+    <string name="specialization">Specialization</string>
+    <string name="doctor_contact">Contact Number</string>
+    <string name="doctor_email">Email</string>
+    <string name="available_hours">Available Hours</string>
+    
+    <!-- Medical Records -->
+    <string name="view_record">View Record</string>
+    <string name="add_record">Add Record</string>
+    <string name="record_date">Record Date</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="prescription">Prescription</string>
+    <string name="notes">Notes</string>
+    
+    <!-- Common -->
+    <string name="error_required">This field is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="success_save">Successfully saved</string>
+    <string name="error_save">Failed to save. Please try again.</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirmation">Are you sure you want to delete?</string>
+    <string name="search">Search</string>
+    <string name="no_data">No data available</string>
+    <string name="loading">Loading...</string>
+</resources>
